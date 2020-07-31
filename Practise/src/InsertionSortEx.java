@@ -4,7 +4,7 @@ public class InsertionSortEx {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Enter size of array");
+		System.out.println("enter size of array");
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 		int a[]=new int[n];
